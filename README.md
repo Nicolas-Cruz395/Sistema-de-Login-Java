@@ -26,9 +26,13 @@ java Login
 Aprendizado:
 
 Uso de condicionais (if/else)
+
 Estruturas de repetição (while)
+
 Manipulação de entrada com Scanner
+
 Comparação de Strings com equals()
+
 Autor
 
 Desenvolvido por: Nicolas Renato.

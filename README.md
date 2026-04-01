@@ -8,9 +8,10 @@ Este é um sistema simples de login desenvolvido em Java, com o objetivo de trei
 O sistema permite:
 
 Cadastro de usuário e senha
-Validação de idade (apenas maiores de 18 anos)
-Sistema de tentativas limitadas (3 tentativas)
-Mensagens específicas para cada tipo de erro
+Validação de idade (apenas maiores de 18 anos).
+Sistema de tentativas limitadas (3 tentativas).
+Mensagens específicas para cada tipo de erro.
+
 Tecnologias utilizadas:
 
 Java
@@ -25,13 +26,10 @@ java Login
 
 Aprendizado:
 
-Uso de condicionais (if/else)
-
-Estruturas de repetição (while)
-
-Manipulação de entrada com Scanner
-
-Comparação de Strings com equals()
+Uso de condicionais (if/else).
+Estruturas de repetição (while).
+Manipulação de entrada com Scanner.
+Comparação de Strings com equals().
 
 Autor
 

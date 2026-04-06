@@ -16,6 +16,7 @@ Tecnologias utilizadas:
 
 Java
 Scanner (entrada de dados)
+
 Como executar:
 
 Compile o arquivo:

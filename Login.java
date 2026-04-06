@@ -13,7 +13,6 @@ public class Login{
         String user_digitado = "";
         String senha_digitada = "";
 
-
         System.out.println("Qual seu nome? ");
         nome = sc.nextLine();
 
